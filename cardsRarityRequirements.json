@@ -1,0 +1,227 @@
+[
+  {
+    "rarity": "Common",
+    "requirements": [
+      {
+        "cards": 1,
+        "gold": 0
+      },
+      {
+        "cards": 2,
+        "gold": 5
+      },
+      {
+        "cards": 4,
+        "gold": 20
+      },
+      {
+        "cards": 10,
+        "gold": 50
+      },
+      {
+        "cards": 20,
+        "gold": 150
+      },
+      {
+        "cards": 50,
+        "gold": 400
+      },
+      {
+        "cards": 100,
+        "gold": 1000
+      },
+      {
+        "cards": 200,
+        "gold": 2000
+      },
+      {
+        "cards": 400,
+        "gold": 4000
+      },
+      {
+        "cards": 800,
+        "gold": 8000
+      },
+      {
+        "cards": 1000,
+        "gold": 15000
+      },
+      {
+        "cards": 1500,
+        "gold": 35000
+      },
+      {
+        "cards": 3000,
+        "gold": 75000
+      },
+      {
+        "cards": 5000,
+        "gold": 100000
+      },
+      {
+        "wildcards": 50000,
+        "gold": 0
+      }
+    ]
+  },
+  {
+    "rarity": "Rare",
+    "requirements": [
+      {
+        "cards": 1,
+        "gold": 0
+      },
+      {
+        "cards": 2,
+        "gold": 50
+      },
+      {
+        "cards": 4,
+        "gold": 150
+      },
+      {
+        "cards": 10,
+        "gold": 400
+      },
+      {
+        "cards": 20,
+        "gold": 1000
+      },
+      {
+        "cards": 50,
+        "gold": 2000
+      },
+      {
+        "cards": 100,
+        "gold": 4000
+      },
+      {
+        "cards": 200,
+        "gold": 8000
+      },
+      {
+        "cards": 400,
+        "gold": 15000
+      },
+      {
+        "cards": 500,
+        "gold": 35000
+      },
+      {
+        "cards": 750,
+        "gold": 75000
+      },
+      {
+        "cards": 1250,
+        "gold": 100000
+      },
+      {
+        "wildcards": 50000,
+        "gold": 0
+      }
+    ]
+  },
+  {
+    "rarity": "Epic",
+    "requirements": [
+      {
+        "cards": 1,
+        "gold": 0
+      },
+      {
+        "cards": 2,
+        "gold": 400
+      },
+      {
+        "cards": 4,
+        "gold": 2000
+      },
+      {
+        "cards": 10,
+        "gold": 4000
+      },
+      {
+        "cards": 20,
+        "gold": 8000
+      },
+      {
+        "cards": 40,
+        "gold": 15000
+      },
+      {
+        "cards": 50,
+        "gold": 35000
+      },
+      {
+        "cards": 100,
+        "gold": 75000
+      },
+      {
+        "cards": 200,
+        "gold": 100000
+      },
+      {
+        "wildcards": 50000,
+        "gold": 0
+      }
+    ]
+  },
+  {
+    "rarity": "Legendary",
+    "requirements": [
+      {
+        "cards": 1,
+        "gold": 0
+      },
+      {
+        "cards": 2,
+        "gold": 5000
+      },
+      {
+        "cards": 4,
+        "gold": 15000
+      },
+      {
+        "cards": 6,
+        "gold": 35000
+      },
+      {
+        "cards": 10,
+        "gold": 75000
+      },
+      {
+        "cards": 20,
+        "gold": 100000
+      },
+      {
+        "wildcards": 50000,
+        "gold": 0
+      }
+    ]
+  },
+  {
+    "rarity": "Champion",
+    "requirements": [
+      {
+        "cards": 1,
+        "gold": 0
+      },
+      {
+        "cards": 2,
+        "gold": 35000
+      },
+      {
+        "cards": 8,
+        "gold": 75000
+      },
+      {
+        "cards": 20,
+        "gold": 100000
+      },
+      {
+        "wildcards": 50000,
+        "gold": 0
+      }
+    ]
+  }
+]
