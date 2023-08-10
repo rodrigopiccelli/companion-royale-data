@@ -1,6 +1,7 @@
 [
   {
     "rarity": "Common",
+    "maxLevel": 14,
     "requirements": [
       {
         "cards": 1,
@@ -66,6 +67,7 @@
   },
   {
     "rarity": "Rare",
+    "maxLevel": 12,
     "requirements": [
       {
         "cards": 1,
@@ -123,6 +125,7 @@
   },
   {
     "rarity": "Epic",
+    "maxLevel": 9,
     "requirements": [
       {
         "cards": 1,
@@ -168,6 +171,7 @@
   },
   {
     "rarity": "Legendary",
+    "maxLevel": 6,
     "requirements": [
       {
         "cards": 1,
@@ -201,6 +205,7 @@
   },
   {
     "rarity": "Champion",
+    "maxLevel": 4,
     "requirements": [
       {
         "cards": 1,
